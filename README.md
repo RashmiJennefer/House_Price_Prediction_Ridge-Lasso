@@ -48,7 +48,7 @@ Also, determine the optimal value of lambda for ridge and lasso regression.
 6. YearBuilt: Original construction date
 7. GrLivArea: Above grade (ground) living area square feet
 8. Neighborhood: Physical locations within Ames city limits (Northridge)
-9.TotRmsAbvGrd: Total rooms above grade (does not include bathrooms)
+9. TotRmsAbvGrd: Total rooms above grade (does not include bathrooms)
 10. GarageCars: Size of garage in car capacity
 11. Neighborhood: Physical locations within Ames city limits (Stone Brook)
 12. ScreenPorch: Screen porch area in square feet
