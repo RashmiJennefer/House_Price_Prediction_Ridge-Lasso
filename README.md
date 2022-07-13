@@ -38,7 +38,7 @@ Also, determine the optimal value of lambda for ridge and lasso regression.
 
 
 ## Conclusion
-The following variables are very important to predict the price of house
+### The following variables are very important to predict the price of house:
 
 1. LotArea: Lot size in square feet
 2. OverallQual: Rates the overall material and finish of the house
@@ -54,13 +54,13 @@ The following variables are very important to predict the price of house
 12. ScreenPorch: Screen porch area in square feet
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## How well those variables describe the price of a house
+### How well those variables describe the price of a house?
 1. The Value of R2 score in ridge regrassion in train data is 0.9358 and in test data is 0.9141.
 2. The Value of R2 score in lasso regrassion in train data is 0.9305 and in test data is 0.9189.
 
 So the variation between train data and test data is very less, hence model is good and all variables are well describing the price of house.
 
-## Optimal value of lambda for ridge and lasso regression.
+### Optimal value of lambda for ridge and lasso regression.
 1. Optimal value of lambda for ridge regression is 4
 2. Optimal value of lambda for lasso regression is 100
 
