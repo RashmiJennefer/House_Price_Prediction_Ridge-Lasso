@@ -30,8 +30,8 @@ Also, determine the optimal value of lambda for ridge and lasso regression.
 2. Data understanding and cleaning
 3. EDA Analysis
 4. Scalling and Train test split
-5. Model building (Linear regression, Lasso and ridge regresssion)
-6. Model evalution
+5. Model building (Linear regression, Lasso and ridge regression)
+6. Model evaluation
 7. Conclusion
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
